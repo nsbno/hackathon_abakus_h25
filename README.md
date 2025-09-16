@@ -41,3 +41,7 @@ pip install -r requirements.txt
 Dette vil lese alle pakkene og de tilhørende versjonene fra requirements-filen. Har dere behov for andre pakker installeres de på vanlig vis ved å kjøre
 ```sh
 pip install <pakkenavn>
+```
+
+### Data
+Det siste som må på plass for å kjøre notebooken er dataen. Den finner dere på Kaggle, og kan laste ned til maskinen dere jobber på. Når det er gjort, legger dere filene i [/data](./data) for at notebooken skal finne filen.
