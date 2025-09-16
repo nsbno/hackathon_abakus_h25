@@ -34,7 +34,7 @@ Da kommer det gjerne en tag med miljø-navnet i terminalen som signaliserer at m
 > Når du er ferdig med å jobbe i miljøet deaktiverer du det ved å kjøre kommandoen `deactivate`
 
 ### Pakker
-Med miljøet aktivt installerer du pakkene som trengs ved å kjøre kommandoen 
+Med miljøet aktivt installerer du pakkene som trengs ved å navigere til rooten av repoet og kjøre kommandoen 
 ```sh
 pip install -r requirements.txt
 ```
