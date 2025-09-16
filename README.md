@@ -1,4 +1,4 @@
-# hackathon_abakus_h25
+# Hackathon med Vy - Abakus H25
 
 Dette repoet er ment som et skjelett dere kan bruke for å jobbe med caset dere har fått presentert i Kaggle-konkurransen. I repoet finner dere tre hovedmapper: 
 
