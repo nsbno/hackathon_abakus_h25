@@ -26,7 +26,8 @@ Når mappen med miljøet er opprettet, kan du aktivere miljøet ved å kjøre
 ```
 source env/Scripts/activate
 ```
-> På linux-type systemer. Om du kjører powershell eller cmd på windows kan du aktivere miljøet ved å kjøre `env\Scripts\activate`
+> Kommando over baserer seg på git bash. For mac, kjør `env/bin/activate`. For windows,  kjør `env\Scripts\activate`.
+
 Da kommer det gjerne en tag med miljø-navnet i terminalen som signaliserer at miljøet er aktivt
 ```
 (env)
